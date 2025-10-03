@@ -49,5 +49,4 @@ I love hacking, analyzing apps, and building tools that push software boundaries
 > "Code is like a spiderweb — intricate, precise, and sometimes full of surprises." 🕷️  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="hacker vibe" />
 </p>
