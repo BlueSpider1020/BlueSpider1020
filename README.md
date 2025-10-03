@@ -8,7 +8,7 @@ I love hacking, analyzing apps, and building tools that push software boundaries
 ## 💻 Tech Arsenal
 
 <p align="center">
-  <img src="https://github.com/BlueSpider1020/BlueSpider1020/image/Go.png" />
+  <img src="https://github.com/BlueSpider1020/BlueSpider1020/blob/main/image/Go.png" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
