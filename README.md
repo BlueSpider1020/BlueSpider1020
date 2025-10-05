@@ -1,6 +1,6 @@
 # 👾 Hi there 👋
 
-I'm a **Full-Stack Developer & Reverse Engineering Enthusiast** based in **California, USA**.  
+I'm a **Full-Stack Developer & Reverse Engineer**.  
 I love hacking, analyzing apps, and building tools that push software boundaries.  
 
 ---
@@ -13,6 +13,7 @@ I love hacking, analyzing apps, and building tools that push software boundaries
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-23239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
